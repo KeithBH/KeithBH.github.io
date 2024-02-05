@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "机器人程序自动化分析软件开发"
+title:  "机器人程序自动分析软件开发"
 date:   2023-12-15 20:08:05 +0800
 categories: Python, PyQt5, Reptile, Software Development
 published: False
