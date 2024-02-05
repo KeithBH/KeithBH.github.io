@@ -29,7 +29,7 @@ published: True
 2. **检查**：虽然众多OEM对于机器人程序均有成熟的标准，但是缺少一个自动检查机器人程序是否符合标准的方法，据我所知，目前只能由人工核对；
 3. **数据提取**：对于机器人中的大量信息，缺少自动获取和核对的方法。
 
-![Pic](pictures/RobotProgram_Background.png)
+![Pic](https://raw.githubusercontent.com/KeithBH/KeithPictures/main/RobotProgram_Background.png)
 
 ---
 
