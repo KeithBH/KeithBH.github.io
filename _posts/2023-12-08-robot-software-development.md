@@ -3,7 +3,7 @@ layout: post
 title:  "机器人程序自动分析软件开发"
 date:   2023-12-15 20:08:05 +0800
 categories: Python, PyQt5, Reptile, Software Development
-published: True
+published: False
 ---
 
 # 0 前言
@@ -46,3 +46,7 @@ published: True
 
 
 # 4 程序架构设计
+
+# 一些感悟
+
+在制造业体验过之后，最直观和深刻的感受是制造业相对于 IT 行业的落后程度之大。当然，这在很大程度上是由制造业本身的严谨性、实体性决定的。

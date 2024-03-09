@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "奖项与证书"
+date:   2024-02-06 00:00:00 +0800
+# categories: Python, PyQt5
+published:  False
+---
+
+
+待补充
+# 2016.9 - 2020.6 北京林业大学 工学院 车辆工程 学士
+
