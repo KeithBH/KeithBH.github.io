@@ -3,6 +3,7 @@ layout: post
 title:  "博客技巧汇总"
 date:   2023-12-20 14:08:05 +0800
 categories: Blog, Jekyll, Github Pages
+published: False
 ---
 
 ## 隐藏博文

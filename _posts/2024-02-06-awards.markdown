@@ -4,6 +4,7 @@ title:  "奖项与证书"
 date:   2024-02-06 00:00:00 +0800
 # categories: Python, PyQt5
 published:  False
+stickie: True
 ---
 
 
