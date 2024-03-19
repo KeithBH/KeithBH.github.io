@@ -37,7 +37,11 @@ published:  True
     记录我看过/觉得有意思的文章和资讯;
     链接并不一定是原文标题，也可能是我对内容的概括;
 
-### 文生文
+### 文 & 文
+
+2024-03-19 [奥特曼：GPT-5 的能力提升幅度超乎想象](https://mp.weixin.qq.com/s/Ys4KmO7S3yNzXb5mGZ1qww)
+
+2024-03-18 [阿里数学竞赛允许硅基选手参加](https://mp.weixin.qq.com/s/06lM05sTkW1jL7J4Z9jh6Q) 数学本科一年级难度
 
 2024-03-18 [首个 AI 程序员 Devin](https://mp.weixin.qq.com/s/xdsN3puVxa0eSC9u0E6OeQ) “发现问题、创建工单、调整代码，最好的人类开发者就是这么工作的。”；自主把任务拆解成一系列子步骤；遇到障碍自己打开对应的 Github 仓库开始查阅文档；相关项目 [MetaGPT](https://mp.weixin.qq.com/s/sxgfJf4vxvaxhO5L7-Npwg)、OpenDevin、Maisa KPU
 
@@ -61,11 +65,13 @@ published:  True
 
 2024-03-09 [Gemini 1.5 Pro 根据代码和视频 debug](https://mp.weixin.qq.com/s/ZSDCNDRu-tCkOlC9jz2j4w) 大海捞针效果良好
 
-### 文生图
+### 文 & 图
 
 2024-03-18 [AI 落地营销场景](https://mp.weixin.qq.com/s/AmwN4q7FI2jopbjaj0_Tsg) 家具、模特等
 
-### 文生视频
+### 文 & 视频
+
+[国产 AIGC 公司 FancyTech 开始赚钱](https://mp.weixin.qq.com/s/rm_dylLhf4FP01c_hdU3Lw) AI 换装；图生视频；阿里系团队
 
 2024-03-18 [开源复现 Open-Sora](https://mp.weixin.qq.com/s/8UQTjOph5MDRNOSwH11ZAg) DiT 架构，目测效果一般
 
@@ -73,13 +79,21 @@ published:  True
 
 ### 多模态
 
+2024-03-19 [苹果大模型 MM1](https://mp.weixin.qq.com/s/i9bx6M32uk4Jq2KSRhv4ng)
+
+2024-03-18 [零一万物 API 开放平台](https://mp.weixin.qq.com/s/kN_FVGHVnjba_ed5uWiCrQ) 200K 上下文；和 OpenAI API 无缝切换；还有结合 Dify 搭建应用的例子；[链接](https://platform.lingyiwanwu.com)
+
 ### AGI 进展
+
+2024-03-18 [谷歌 SIMA 通用游戏智能体](https://mp.weixin.qq.com/s/t0a3-YMHWgE0Yb_EiV2Nuw) 支持多游戏，遵循语言指令；有潜力与任何虚拟环境互动
 
 2024-03-12 [Claude 3 “自我认知”](https://mp.weixin.qq.com/s/KkfLI8g4afiB8a_jIjD--Q) 意识到自己在被测试
 
 ### 具身智能/人形机器人
 
-2024-03-18 [Figure 01，OpenAI 加持的机器人](https://mp.weixin.qq.com/s/f4k8N6ebzpOH1owy-ObqEA)
+2024-03-19 [Tracking Steamer - Vision Pro 实时训练机械狗](https://mp.weixin.qq.com/s/Zq7xxhJk14hFQ_OSTZre1g) 开源
+
+2024-03-18 [Figure 01，OpenAI 加持的机器人](https://mp.weixin.qq.com/s/f4k8N6ebzpOH1owy-ObqEA) 效果惊艳
 
 2024-03-15 [将试错引入大模型代理学习](https://mp.weixin.qq.com/s/dtsR5lkkELJlh0i4TzuX0Q) 通过直接与环境互动来学习和完善动作，未细读
 
@@ -88,6 +102,16 @@ published:  True
 2024-03-18 [LightGPT 大模型控制红绿灯](https://mp.weixin.qq.com/s/mF9hZkkQ4aJ1cAJ1vAFV9g) 
 
 ### 其他
+
+2024-03-19 [大模型自己优化 Prompt，及其对提示工程的影响](https://mp.weixin.qq.com/s/H6xrD2WxuXwj1tZOuYQ_Kw) “许多大公司都正在推出一个新的工作岗位：大型语言模型运营（LLMOps），该岗位的生命周期中就包含提示工程”
+
+2024-03-19 [NVIDIA 发布 Blackwell 平台和 B200、GB200 GPU](https://mp.weixin.qq.com/s/EsFkd_isPz2J5wap6KaF5A) “可以搭建数据中心，流量带宽在一秒内就可以传输完当前整个互联网的信息量”
+
+2024-03-19 [ChatGPT 日耗电量 ≈1.7 万家庭日耗电量](https://mp.weixin.qq.com/s/D5DR1jWBuOHphwFNiGGixQ) “奥特曼：我们需要可控核聚变”，并已押注公司 Helion；
+
+2024-03-19 [零一万物向量数据库新 SOTA](https://mp.weixin.qq.com/s/yAyOmOr22PCVguCZm6pifw) 向量数据库是大模型长期记忆的关键基础设施；
+
+2024-03-18 [字节级模型](https://mp.weixin.qq.com/s/BLUTwhAlbXMPKYAgIoB_0Q) 不是预测下一个 token，而是下一个字节；目标“将字节模型作为数字世界的模拟器”；**无视模态**
 
 2024-03-15 [DUSt3R，视觉重建新 SOTA](https://mp.weixin.qq.com/s/lKHRTXT_jbivSTNo8g8EXg) 两张图重建 3D 环境，未细读
 
@@ -136,3 +160,5 @@ print(tokenizer.decode(outputs[0]))
 ## 课程
 
 [课程笔记：Finetuning LLM]() 链接和笔记内容还在完善中～
+
+[何恺明 MIT 第一课：学习深度表示](https://mp.weixin.qq.com/s/OP_hSFVczszl8vc2828rUw) 还没看 :P
